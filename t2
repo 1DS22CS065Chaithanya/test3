@@ -1,0 +1,5 @@
+#includeM<stdio.h>
+void main()
+{
+add();
+}
