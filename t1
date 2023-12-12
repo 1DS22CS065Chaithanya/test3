@@ -6,6 +6,9 @@ add();
 printf("addition of a and b",sum);
 }
 sub();
+{
+printf("the subtraction of a an b",sub);
+}
 mul();
 {
 printf("muliplication of a and b ",multiplication);
